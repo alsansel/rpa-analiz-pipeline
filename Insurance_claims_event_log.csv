@@ -1,0 +1,9 @@
+case_id,timestamp,activity_name,user_type
+1,2024-01-01 09:00:00,Start,system
+1,2024-01-01 09:01:00,Assign Agent,agent
+1,2024-01-01 09:05:00,Check Document,agent
+1,2024-01-01 09:07:00,Approve Claim,supervisor
+2,2024-01-02 10:00:00,Start,system
+2,2024-01-02 10:03:00,Assign Agent,agent
+2,2024-01-02 10:06:00,Review Application,agent
+2,2024-01-02 10:08:00,Sign Contract,supervisor
